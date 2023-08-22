@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank", "HackerRank\HackerRank.csproj", "{A97AD4EF-CF98-4D06-9B1A-09EE6CA3FE7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode", "LeetCode\LeetCode.csproj", "{A0F0C8C7-CD5D-4D1F-98BA-99EFD953A2D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interviews", "Interviews\Interviews.csproj", "{B286CF9F-FB43-4FC4-9EE6-2A137449B1BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A97AD4EF-CF98-4D06-9B1A-09EE6CA3FE7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A97AD4EF-CF98-4D06-9B1A-09EE6CA3FE7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A97AD4EF-CF98-4D06-9B1A-09EE6CA3FE7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A97AD4EF-CF98-4D06-9B1A-09EE6CA3FE7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0F0C8C7-CD5D-4D1F-98BA-99EFD953A2D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F0C8C7-CD5D-4D1F-98BA-99EFD953A2D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F0C8C7-CD5D-4D1F-98BA-99EFD953A2D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F0C8C7-CD5D-4D1F-98BA-99EFD953A2D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B286CF9F-FB43-4FC4-9EE6-2A137449B1BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B286CF9F-FB43-4FC4-9EE6-2A137449B1BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B286CF9F-FB43-4FC4-9EE6-2A137449B1BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B286CF9F-FB43-4FC4-9EE6-2A137449B1BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {036A18B2-6C25-48B2-A7BA-356126F6AD2B}
+	EndGlobalSection
+EndGlobal
