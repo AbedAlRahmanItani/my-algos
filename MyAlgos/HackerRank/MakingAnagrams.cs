@@ -2,14 +2,14 @@
 
 internal class MakingAnagrams
 {
-    static void Main(string[] args)
-    {
-        var result = MakeAnagram("fcrxzwscanmligyxyvym", "jxwtrhvujlmrpdoqbisbwhmgpmeoke");
+    //static void Main(string[] args)
+    //{
+    //    var result = MakeAnagram("fcrxzwscanmligyxyvym", "jxwtrhvujlmrpdoqbisbwhmgpmeoke");
 
-        Console.WriteLine(result.ToString());
-        Console.WriteLine("Press enter to close...");
-        Console.ReadLine();
-    }
+    //    Console.WriteLine(result.ToString());
+    //    Console.WriteLine("Press enter to close...");
+    //    Console.ReadLine();
+    //}
 
     public static int MakeAnagram(string a, string b)
     {

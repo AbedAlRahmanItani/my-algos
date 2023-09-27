@@ -2,14 +2,14 @@
 
 internal class SherlockAndTheValidString
 {
-    static void Main(string[] args)
-    {
-        var result = IsValid("aaaaaa");
+    //static void Main(string[] args)
+    //{
+    //    var result = IsValid("aaaaaa");
 
-        Console.WriteLine(result.ToString());
-        Console.WriteLine("Press enter to close...");
-        Console.ReadLine();
-    }
+    //    Console.WriteLine(result.ToString());
+    //    Console.WriteLine("Press enter to close...");
+    //    Console.ReadLine();
+    //}
 
     /// <summary>
     /// Sherlock and the Valid String
