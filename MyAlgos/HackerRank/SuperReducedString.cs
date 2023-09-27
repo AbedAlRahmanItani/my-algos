@@ -1,7 +1,4 @@
-﻿
-using System.Text;
-
-namespace HackerRank;
+﻿namespace HackerRank;
 
 internal class SuperReducedString
 {
