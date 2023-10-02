@@ -2,14 +2,14 @@
 
 internal class SuperReducedString
 {
-    static void Main(string[] args)
-    {
-        var result = superReducedString("aaabccddd");
+    //static void Main(string[] args)
+    //{
+    //    var result = superReducedString("aaabccddd");
 
-        Console.WriteLine(result.ToString());
-        Console.WriteLine("Press enter to close...");
-        Console.ReadLine();
-    }
+    //    Console.WriteLine(result.ToString());
+    //    Console.WriteLine("Press enter to close...");
+    //    Console.ReadLine();
+    //}
 
     //public static string superReducedString(string s)
     //{
